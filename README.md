@@ -1,5 +1,10 @@
 # Databricks Sales Data Analytics
 
+
+## LinkedIn Article
+
+[Read my article](https://www.linkedin.com/pulse/databricks-action-from-unity-catalog-business-insights-ravula-6rgsf)
+
 ## Project Overview
 This project focuses on analyzing retail sales data using Databricks SQL to identify business insights and understand sales performance.
 
